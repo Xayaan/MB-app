@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="140px" height="140px" viewBox="0 0 140 140" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>statistics-marketcap-icon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Website-&amp;-App" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="MoonBear-Homepage" transform="translate(-416.000000, -4190.000000)">
+            <g id="Statistics" transform="translate(165.000000, 4110.000000)">
+                <g id="statistics-marketcap-icon" transform="translate(251.000000, 80.000000)">
+                    <circle id="Oval" fill="#F3F1EA" cx="70" cy="70" r="70"></circle>
+                    <rect id="Rectangle" fill="#000000" fill-rule="nonzero" opacity="0.1543" x="33.099" y="79.2600009" width="9.33801" height="25.2282"></rect>
+                    <rect id="Rectangle" stroke="#000000" fill="#FFD3A5" fill-rule="nonzero" x="31.5" y="81.6450009" width="8.33801" height="24.2282"></rect>
+                    <rect id="Rectangle" fill="#000000" fill-rule="nonzero" opacity="0.1543" x="45.732" y="70.8510009" width="9.33801" height="33.3525"></rect>
+                    <rect id="Rectangle" stroke="#000000" fill="#FF9E3C" fill-rule="nonzero" x="44.134" y="73.5210009" width="8.33801" height="32.3525"></rect>
+                    <rect id="Rectangle" fill="#000000" fill-rule="nonzero" opacity="0.1543" x="58.366" y="75.7190009" width="9.33801" height="28.6489"></rect>
+                    <rect id="Rectangle" stroke="#000000" fill="#FFD3A5" fill-rule="nonzero" x="56.768" y="78.2240009" width="8.33801" height="27.6489"></rect>
+                    <rect id="Rectangle" fill="#000000" fill-rule="nonzero" opacity="0.1543" x="71" y="58.9000009" width="9.33801" height="44.8976"></rect>
+                    <rect id="Rectangle" stroke="#000000" fill="#FF9E3C" fill-rule="nonzero" x="69.401" y="61.9760009" width="8.33801" height="43.8976"></rect>
+                    <rect id="Rectangle" fill="#000000" fill-rule="nonzero" opacity="0.1543" x="85.831" y="62.4410009" width="9.33801" height="41.4768"></rect>
+                    <rect id="Rectangle" stroke="#000000" fill="#FFD3A5" fill-rule="nonzero" x="84.232" y="65.3960009" width="8.33801" height="40.4768"></rect>
+                    <rect id="Rectangle" fill="#000000" opacity="0.154278" x="100.662" y="44.2940009" width="9.33801" height="59.0082"></rect>
+                    <rect id="Rectangle" stroke="#000000" fill="#FF9E3C" fill-rule="nonzero" x="99.063" y="47.8650009" width="8.33801" height="58.0082"></rect>
+                    <polyline id="Path" stroke="#000000" points="32.099 66.9820009 47.9391834 54.0402928 56.2911874 60.8643842 75.8749511 44.8643842 83.938674 51.452984 104.099 34.9820009"></polyline>
+                    <polyline id="Path" stroke="#000000" transform="translate(101.660000, 37.000001) rotate(3.000000) translate(-101.660000, -37.000001) " points="99.54 35.0000009 103.78 35.0000009 103.78 39.0000009"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
